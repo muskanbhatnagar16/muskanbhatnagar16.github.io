@@ -723,13 +723,13 @@ section:nth-of-type(3) #gallery .mix:nth-child(2) .card {
   background: url("../img/linkedin.png") center center/cover;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(3) .card {
-  background: url("../img/connectdevs2.png") center center/cover;
+  background: url("../img/foodapp.png") center center/cover;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(4) .card {
-  background: url("../img/resume.png") center center/cover;
+  background: url("../img/todo.png") center center/cover;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(5) .card {
-  background: url("../img/foodezzy.png") center center/cover;
+  background: url("../img/cocktail.png") center center/cover;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(6) .card {
   background: url("../img/burger.png") center center/cover;
